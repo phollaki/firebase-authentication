@@ -1,0 +1,1 @@
+https://codesandbox.io/s/jotai-practice-6jy4mg?file=/src/SvgShapes.tsx
